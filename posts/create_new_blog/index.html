@@ -144,7 +144,7 @@ Step 1: Set up 2 Github repos test_site_blog: blog repo. This is the main repo w
 <meta itemprop="description" content="Step by step guide Let&rsquo;s say we want to create a new blog called test_site
 Step 1: Set up 2 Github repos test_site_blog: blog repo. This is the main repo where all the data assets and blogs are saved test_site.github.io: production repo. Tths is we deploy the page from, it has to come with the suffix github.io in order to be published in Github properly Step 2: install Hugo brew install hugo Step 3: create a Hugo side in blog repo hugo new site test_site Step 4: add themes install color themes git submodule add https://github."><meta itemprop="datePublished" content="2023-08-11T13:50:57-04:00" />
 <meta itemprop="dateModified" content="2023-08-11T13:50:57-04:00" />
-<meta itemprop="wordCount" content="221">
+<meta itemprop="wordCount" content="307">
 <meta itemprop="keywords" content="" />
   
   <meta name="twitter:card" content="summary"/>
@@ -328,6 +328,28 @@ Step 1: Set up 2 Github repos test_site_blog: blog repo. This is the main repo w
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo server
 </span></span></code></pre></div><p>Generate static files</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo -t paper
+</span></span></code></pre></div><h1 id="how-to-publish-a-post-in-the-blog">How to publish a post in the blog</h1>
+<h3 id="write-your-blog">Write your blog</h3>
+<ul>
+<li>You can simply add a blog post by creating a MD file under <code>/contet/posts/</code> folder</li>
+<li>After finish writing the post, need to generate static files again in Public folder, because the public folder is where the webpage links to.</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo -t paper
+</span></span></code></pre></div><h2 id="push-to-git">Push to git</h2>
+<p>Here you will need to push code in 2 places</p>
+<ul>
+<li>blog folder</li>
+</ul>
+<pre tabindex="0"><code>git add .
+git commit 
+git push
+</code></pre><ul>
+<li>public folder</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd public
+</span></span><span style="display:flex;"><span>git add .
+</span></span><span style="display:flex;"><span>git commit 
+</span></span><span style="display:flex;"><span>git push
 </span></span></code></pre></div><h1 id="reference">Reference</h1>
 <p>Here is a great step by step video guide by Ryan Schaachte <a href="https://www.youtube.com/watch?v=LIFvgrRxdt4">https://www.youtube.com/watch?v=LIFvgrRxdt4</a></p>
 </section>
