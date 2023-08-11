@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test</title>
+    <link>https://richlin.github.io/</link>
+    <description>Recent content on Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2023 13:50:57 -0400</lastBuildDate><atom:link href="https://richlin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create a blog using Github Pages and Hugo in 10 minutes</title>
+      <link>https://richlin.github.io/posts/create_new_blog/</link>
+      <pubDate>Fri, 11 Aug 2023 13:50:57 -0400</pubDate>
+      
+      <guid>https://richlin.github.io/posts/create_new_blog/</guid>
+      <description>Step by step guide Let&amp;rsquo;s say we want to create a new blog called test_site
+Step 1: Set up 2 Github repos test_site_blog: blog repo. This is the main repo where all the data assets and blogs are saved test_site.github.io: production repo. Tths is we deploy the page from, it has to come with the suffix github.io in order to be published in Github properly Step 2: install Hugo brew install hugo Step 3: create a Hugo side in blog repo hugo new site test_site Step 4: add themes install color themes git submodule add https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
