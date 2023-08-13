@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Rich&#39;s Blog</title>
-    <link>https://richlin.github.io/posts/</link>
-    <description>Recent content in Posts on Rich&#39;s Blog</description>
+    <title>Github on Rich&#39;s Blog</title>
+    <link>https://richlin.github.io/tags/github/</link>
+    <description>Recent content in Github on Rich&#39;s Blog</description>
     <image>
       <title>Rich&#39;s Blog</title>
       <url>https://richlin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2023 13:50:57 -0400</lastBuildDate><atom:link href="https://richlin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 13:50:57 -0400</lastBuildDate><atom:link href="https://richlin.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to create a blog using Github Pages and Hugo in 10 minutes</title>
       <link>https://richlin.github.io/posts/230811_create_new_blog/</link>

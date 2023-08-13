@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>RichLin Blog</title>
+    <title>Rich&#39;s Blog</title>
     <link>https://richlin.github.io/</link>
-    <description>Recent content on RichLin Blog</description>
+    <description>Recent content on Rich&#39;s Blog</description>
     <image>
-      <title>RichLin Blog</title>
+      <title>Rich&#39;s Blog</title>
       <url>https://richlin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://richlin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -18,8 +18,18 @@
       <pubDate>Fri, 11 Aug 2023 13:50:57 -0400</pubDate>
       
       <guid>https://richlin.github.io/posts/230811_create_new_blog/</guid>
-      <description>Step by step guide Let&amp;rsquo;s say we want to create a new blog called test_site
-Step 1: Set up 2 Github repos test_site_blog: blog repo. This is the main repo where all the data assets and blogs are saved test_site.github.io: production repo. Tths is we deploy the page from, it has to come with the suffix github.io in order to be published in Github properly Step 2: install Hugo brew install hugo Step 3: create a Hugo side in blog repo hugo new site test_site Step 4: Aadd themes Here I am using PaperMod theme.</description>
+      <description>Ah, the age-old tradition of starting a blog. Whether you&amp;rsquo;re doing it to share your favorite cat photos, write about your ever-so-exciting daily life, or discuss something actually serious, you&amp;rsquo;re in luck!
+Let&amp;rsquo;s dive into the realm of Hugo and GitHub to create a blog that even your grandma would be proud to share on Facebook.
+Initial setup Step 1: Set up 2 Github repos like a Pro Why one when you can have two?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://richlin.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://richlin.github.io/contact/</guid>
+      <description>WIP </description>
     </item>
     
   </channel>
