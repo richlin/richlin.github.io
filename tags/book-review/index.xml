@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Rich&#39;s Blog</title>
-    <link>https://richlin.github.io/posts/</link>
-    <description>Recent content in Posts on Rich&#39;s Blog</description>
+    <title>book review on Rich&#39;s Blog</title>
+    <link>https://richlin.github.io/tags/book-review/</link>
+    <description>Recent content in book review on Rich&#39;s Blog</description>
     <image>
       <title>Rich&#39;s Blog</title>
       <url>https://richlin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://richlin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://richlin.github.io/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book notes: The Comfort Crisis</title>
       <link>https://richlin.github.io/posts/230813_comfort_crisis/</link>
@@ -19,17 +19,6 @@
       
       <guid>https://richlin.github.io/posts/230813_comfort_crisis/</guid>
       <description>Summary Takeaways Pilot test Misogi in things I am doing Start logging the carolies of food I eat Start writing my bucket list Get comfortable with doing nothing Limit my screentime Notes Misogi - do the hard thing In our model of misogi, there are only two rules. Rule number one is that it has to be really hard. Rule number two is that you can&amp;rsquo;t die. How to determine if something is hard enough?</description>
-    </item>
-    
-    <item>
-      <title>How to create a blog using Github Pages and Hugo in 10 minutes</title>
-      <link>https://richlin.github.io/posts/230811_create_new_blog/</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://richlin.github.io/posts/230811_create_new_blog/</guid>
-      <description>Ah, the age-old tradition of starting a blog. Whether you&amp;rsquo;re doing it to share your favorite cat photos, write about your ever-so-exciting daily life, or discuss something actually serious, you&amp;rsquo;re in luck!
-Let&amp;rsquo;s dive into the realm of Hugo and GitHub to create a blog that even your grandma would be proud to share on Facebook.
-Initial setup Step 1: Set up 2 Github repos like a Pro Why one when you can have two?</description>
     </item>
     
   </channel>

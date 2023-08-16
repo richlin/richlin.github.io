@@ -2,29 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://richlin.github.io/tags/blog/</loc>
-    <lastmod>2023-08-11T13:50:57-04:00</lastmod>
+    <loc>https://richlin.github.io/posts/230813_comfort_crisis/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://richlin.github.io/tags/github/</loc>
-    <lastmod>2023-08-11T13:50:57-04:00</lastmod>
+    <loc>https://richlin.github.io/tags/book-review/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://richlin.github.io/posts/230811_create_new_blog/</loc>
-    <lastmod>2023-08-11T13:50:57-04:00</lastmod>
-  </url><url>
-    <loc>https://richlin.github.io/tags/hugo/</loc>
-    <lastmod>2023-08-11T13:50:57-04:00</lastmod>
+    <loc>https://richlin.github.io/tags/death/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://richlin.github.io/posts/</loc>
-    <lastmod>2023-08-11T13:50:57-04:00</lastmod>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://richlin.github.io/</loc>
-    <lastmod>2023-08-11T13:50:57-04:00</lastmod>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://richlin.github.io/tags/</loc>
-    <lastmod>2023-08-11T13:50:57-04:00</lastmod>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://richlin.github.io/tags/blog/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://richlin.github.io/tags/github/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://richlin.github.io/posts/230811_create_new_blog/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://richlin.github.io/tags/hugo/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://richlin.github.io/tags/tech/</loc>
-    <lastmod>2023-08-11T13:50:57-04:00</lastmod>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://richlin.github.io/contact/</loc>
   </url><url>
